@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\FunctionProblem\bin\Debug\netcoreapp3.1\FunctionProblem.exe
+C:\Users\admin\source\repos\FunctionProblem\bin\Debug\netcoreapp3.1\FunctionProblem.deps.json
+C:\Users\admin\source\repos\FunctionProblem\bin\Debug\netcoreapp3.1\FunctionProblem.runtimeconfig.json
+C:\Users\admin\source\repos\FunctionProblem\bin\Debug\netcoreapp3.1\FunctionProblem.runtimeconfig.dev.json
+C:\Users\admin\source\repos\FunctionProblem\bin\Debug\netcoreapp3.1\FunctionProblem.dll
+C:\Users\admin\source\repos\FunctionProblem\bin\Debug\netcoreapp3.1\FunctionProblem.pdb
+C:\Users\admin\source\repos\FunctionProblem\obj\Debug\netcoreapp3.1\FunctionProblem.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FunctionProblem\obj\Debug\netcoreapp3.1\FunctionProblem.AssemblyInfo.cs
+C:\Users\admin\source\repos\FunctionProblem\obj\Debug\netcoreapp3.1\FunctionProblem.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FunctionProblem\obj\Debug\netcoreapp3.1\FunctionProblem.dll
+C:\Users\admin\source\repos\FunctionProblem\obj\Debug\netcoreapp3.1\FunctionProblem.pdb
+C:\Users\admin\source\repos\FunctionProblem\obj\Debug\netcoreapp3.1\FunctionProblem.genruntimeconfig.cache
+C:\Users\admin\source\repos\FunctionProblem\obj\Debug\netcoreapp3.1\FunctionProblem.csproj.AssemblyReference.cache
