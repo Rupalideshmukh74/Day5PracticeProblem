@@ -18,7 +18,7 @@ namespace FunctionProblem
             
             for (i = 1; i <= n; i++)
             {
-                Console.Write("1/{0} +",+ n);
+                Console.Write("1/{0} +",+ i);
                 
             }
             

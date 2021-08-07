@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FunctionProblem
 {
-    class Class2
+    class EvenAndOdd
     {
         public static void CheckNo()
         {
